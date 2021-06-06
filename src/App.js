@@ -32,7 +32,7 @@ function App() {
 
         <h3>Application process</h3>
         <p><b>Step One - Written Application</b></p>
-        <p>The first step of getting into Axiom is to fill out a written application. The application consists of deep questions regarding character, morals, motivations, achievements, self-discipline, struggles, goals, dreams, and is an overall deep dive into who you are and what you stand for. It is not short, and will likely take a number of days to complete. A referral by an Axiom member is a huge plus, but not required.</p>
+        <p>The first step of getting into Axiom is to fill out a written application. The application consists of questions regarding character, morals, motivations, achievements, self-discipline, struggles, goals, dreams, and is an overall dive into who you are and what you stand for. A referral by an Axiom member is a huge plus, but not required.</p>
 
         <p><b>Step Two - Remote interview with a member</b></p>
         <p>Once we have read your written application and established a good fit for the syndicate, we will reach out and schedule a call with you. This is either a chat over the phone or a video call. It is casual, so don't stress. You can think of it as a networking opportunity, and the first taste of what is is like to be in Axiom. Your interviewer could be anyone in the syndicate.</p>
