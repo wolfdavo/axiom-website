@@ -38,7 +38,7 @@ function App() {
         <p>Once we have read your written application and established a good fit for the syndicate, we will reach out and schedule a call with you. This is either a chat over the phone or a video call. It is casual, so don't stress. You can think of it as a networking opportunity, and the first taste of what is is like to be in Axiom. Your interviewer could be anyone in the syndicate.</p>
 
         <p><b>Step Three - Attend an event</b></p>
-        <p>After the call, you will be invited to attend an in-person event. If the nearest event is a long way away, you will be required to travel. This is the final step. After the event, you will be a member of the Axiom Syndicate.</p>
+        <p>After the call, you will be invited to attend an in-person event. If the nearest event is a long way away, you will be required to travel. This is the final step.</p>
       </div>
     </div>
   );
