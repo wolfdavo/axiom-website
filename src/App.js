@@ -16,7 +16,7 @@ function App() {
           <li>Innovators</li>
         </ul>
         <p>Members of Axiom have a burning desire to write their own script and carve their own path. They do not settle, and they are never satisfied. They are catalysts of change and creation.</p>
-        <p>When you are accepted into Axiom, you are being welcomed into an ever-expanding and carefully selected network of exceptional people. You have a direct line to everyone in the global syndicate. We do everything we can to support each other, creating a powerful interdependent synergy among members.</p>
+        <p>When you are accepted into Axiom, you are being welcomed into an ever-expanding and carefully selected network of exceptional people. You have a direct line to everyone in the syndicate. We do everything we can to support each other, creating a powerful interdependent synergy among members.</p>
         <p>Members frequently host events where you can network and connect in person. Lunch and coffee meetings, brainstorming sessions, group workouts, and celebrations/parties are all common.</p>
         <p>All members of Axiom are seen as equal. There is no hierarchy at all. When you are accepted, it means we have absolute trust in your character, values, and principles by which you live your life and that they align with those of the syndicate. Once accepted, you are free to invite and interview new members, host events, and network with anyone you want.</p>
         <p>There is no monetary cost associated with membership.</p>
