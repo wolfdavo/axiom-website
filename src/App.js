@@ -39,6 +39,9 @@ function App() {
 
         <p><b>Step Three - Attend an event</b></p>
         <p>After the call, you will be invited to attend an in-person event. If the nearest event is a long way away, you will be required to travel. This is the final step.</p>
+
+        <h3>Interested?</h3>
+        <p>Great! We are in the process of selecting our first members. Please send a direct message on instagram to Axiom's founder, @david_wolfenden to express your interest. </p>
       </div>
     </div>
   );
