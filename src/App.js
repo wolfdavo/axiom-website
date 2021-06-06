@@ -12,7 +12,7 @@ function App() {
           <li>Entrepreneurs</li>
           <li>Creators</li>
           <li>Leaders</li>
-          <li>Researchers</li>
+          <li>Researchers and Scientists</li>
           <li>Innovators</li>
         </ul>
         <p>Members of Axiom have a burning desire to write their own script and carve their own path. They do not settle, and they are never satisfied. They are catalysts of change and creation.</p>
